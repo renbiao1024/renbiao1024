@@ -1,15 +1,14 @@
 
 
 
-### <div align="center">I'm RenBiao, a student at NUC. I love games, both playing and developing 🚀</div>  
+### <div align="center">Hello and welcome ! I'm RenBiao, a student at NUC. I love games, both playing and developing 🚀</div>  
   
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Visitor Count](https://profile-counter.glitch.me/renbiao1024/count.svg)
 
 </td><td valign="top" width="50%">
 
