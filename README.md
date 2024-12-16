@@ -14,13 +14,13 @@
 
 
   
-- 🔫 I'm a rookie game developer
+- 🎮 I'm aiming to be a great game developer.
   
 
-- ✍ I'm good at writing bugs
+- 📚 I'm interested in reading literature books.
   
 
-- ⚽ I'm a football player but can only finish the first half 
+- ⚽ I'm a soccer rookie.
 
 </div>  
 
