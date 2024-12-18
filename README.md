@@ -1,7 +1,7 @@
 
 
 
-### <div align="center">Hello and welcome ! I'm RenBiao, a student at NUC. I love games, both playing and developing 🚀</div>  
+### <div align="center">Hello and welcome !  🚀</div>  
   
 <table><tr><td valign="top" width="50%">
 <div align="center">
